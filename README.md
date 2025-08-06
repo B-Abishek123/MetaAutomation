@@ -1,1 +1,1 @@
-This is a Python program that uses Meta's GraphQL, LLMs to create a copy for Social Media automatically post it on Facebook, Instagram.
+This is a Python program that uses Meta's Graph, LLMs to create a copy for Social Media automatically post it on Facebook, Instagram.
